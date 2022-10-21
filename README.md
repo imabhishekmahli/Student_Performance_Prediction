@@ -32,16 +32,6 @@ The activities of this research include feature engineering to create the studen
 
 3.5.The ML Algorithm produces a trained model or a trained classifier that can take as an input a new data row and predicts its label.
 
-In [2]:
-df=pd.read_csv('student_data.csv')
-df.head()
-Out[2]:
-	school	sex	age	address	famsize	Pstatus	Medu	Fedu	Mjob	Fjob	...	famrel	freetime	goout	Dalc	Walc	health	absences	G1	G2	G3
-0	GP	F	18	U	GT3	A	4	4	at_home	teacher	...	4	3	4	1	1	3	6	5	6	6
-1	GP	F	17	U	GT3	T	1	1	at_home	other	...	5	3	3	1	1	3	4	5	5	6
-2	GP	F	15	U	LE3	T	1	1	at_home	other	...	4	3	2	2	3	3	10	7	8	10
-3	GP	F	15	U	GT3	T	4	2	health	services	...	3	2	2	1	1	5	2	15	14	15
-4	GP	F	16	U	GT3	T	3	3	other	other	...	4	3	2	1	2	5	4	6	10	10
-5 rows × 33 columns![image](https://user-images.githubusercontent.com/107021877/197200962-a3bc128e-b42d-4f5c-b6cc-0d0789494e19.png)
+
 
 
