@@ -48,11 +48,8 @@ The activities of this research include feature engineering to create the studen
 ![Alt text](https://github.com/imabhishekmahli/Student_Performance_Prediction/blob/main/screenshots/Screenshot%20(44).png)
 ![Alt text](https://github.com/imabhishekmahli/Student_Performance_Prediction/blob/main/screenshots/Screenshot%20(45).png)
 ![Alt text](https://github.com/imabhishekmahli/Student_Performance_Prediction/blob/main/screenshots/Screenshot%20(46).png)
-![Alt text](https://github.com/imabhishekmahli/Student_Performance_Prediction/blob/main/screenshots/Screenshot%20(47).png)
 ![Alt text](https://github.com/imabhishekmahli/Student_Performance_Prediction/blob/main/screenshots/Screenshot%20(48).png)
 ![Alt text](https://github.com/imabhishekmahli/Student_Performance_Prediction/blob/main/screenshots/Screenshot%20(49).png)
-![Alt text](https://github.com/imabhishekmahli/Student_Performance_Prediction/blob/main/screenshots/Screenshot%20(50).png)
-![Alt text](https://github.com/imabhishekmahli/Student_Performance_Prediction/blob/main/screenshots/Screenshot%20(51).png)
 ![Alt text](https://github.com/imabhishekmahli/Student_Performance_Prediction/blob/main/screenshots/Screenshot%20(52).png)
 ![Alt text](https://github.com/imabhishekmahli/Student_Performance_Prediction/blob/main/screenshots/Screenshot%20(53).png)
 
