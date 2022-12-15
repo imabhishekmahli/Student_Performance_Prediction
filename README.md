@@ -32,7 +32,7 @@ The activities of this research include feature engineering to create the studen
 
 3.5.The ML Algorithm produces a trained model or a trained classifier that can take as an input a new data row and predicts its label.
 
-![Alt text]("https://github.com/imabhishekmahli/Student_Performance_Prediction/blob/main/screenshots/Screenshot%20(31).png")
+![Alt text](https://github.com/imabhishekmahli/Student_Performance_Prediction/blob/main/screenshots/Screenshot%20(31).png)
 ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
 ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
 ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
